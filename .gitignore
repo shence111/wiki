@@ -1,0 +1,13 @@
+# 在这个文件中所写的内容会被 git 忽略
+*.iml
+
+# out 文件夹
+out/
+
+# .idea 文件夹
+.idea/
+
+# .class 字节码文件
+*.class
+
+target/
